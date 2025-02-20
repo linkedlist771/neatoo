@@ -3,7 +3,7 @@ from .cli import main
 
 
 def cli():
-    """CLI entry point for depscan"""
+    """CLI entry point for neatoo"""
     main()
 
 
