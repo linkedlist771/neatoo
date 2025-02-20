@@ -1,7 +1,7 @@
 # neatoo
 A simple yet powerful tool for Python code formatting, checking, and testing.
 
-
+neatoo is built on top of [black](https://github.com/psf/black), [isort](https://github.com/PyCQA/isort), and [flake8](https://github.com/PyCQA/flake8), thanks to those great tools.
 
 ## Installation
 
